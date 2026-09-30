@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Casque Audio Sans Fil",
+    "description": "Casque circum-aural avec réduction de bruit active et autonomie de 30 heures.",
+    "price": 149.99,
+    "category": "Électronique"
+  },
+  {
+    "name": "Souris Ergonomique",
+    "description": "Souris optique sans fil conçue pour réduire la fatigue du poignet.",
+    "price": 39.90,
+    "category": "Informatique"
+  },
+  {
+    "name": "Clavier Mécanique RGB",
+    "description": "Clavier gamer compact avec switches red silencieux et rétroéclairage personnalisable.",
+    "price": 89.99,
+    "category": "Informatique"
+  },
+  {
+    "name": "Écran 27 pouces 4K",
+    "description": "Moniteur IPS ultra haute définition idéal pour le graphisme et le télétravail.",
+    "price": 329.00,
+    "category": "Informatique"
+  },
+  {
+    "name": "Gourde Isoterme 1L",
+    "description": "Gourde en acier inoxydable gardant les boissons chaudes 12h et froides 24h.",
+    "price": 24.50,
+    "category": "Maison & Cuisine"
+  },
+  {
+    "name": "Cafetière à Piston",
+    "description": "Cafetière en verre borosilicate de 8 tasses avec filtre en inox double paroi.",
+    "price": 29.99,
+    "category": "Maison & Cuisine"
+  },
+  {
+    "name": "Tapis de Yoga Antidérapant",
+    "description": "Tapis écologique en caoutchouc naturel de 6 mm d'épaisseur avec sangle de transport.",
+    "price": 35.00,
+    "category": "Sport"
+  },
+  {
+    "name": "Montre Connectée Sport",
+    "description": "Montre avec suivi du rythme cardiaque, GPS intégré et étanchéité jusqu'à 50m.",
+    "price": 119.95,
+    "category": "Électronique"
+  },
+  {
+    "name": "Sac à Dos PC 15 pouces",
+    "description": "Sac à dos étanche avec compartiment rembourré pour ordinateur et port de charge USB.",
+    "price": 45.00,
+    "category": "Bagagerie"
+  },
+  {
+    "name": "Enceinte Portable Bluetooth",
+    "description": "Enceinte compacte résistante à l'eau (IPX7) offrant un son puissant à 360 degrés.",
+    "price": 59.99,
+    "category": "Électronique"
+  },
+  {
+    "name": "Lampe de Bureau LED",
+    "description": "Lampe tactile avec variateur d'intensité et chargeur sans fil Qi intégré sur le socle.",
+    "price": 34.90,
+    "category": "Maison & Cuisine"
+  },
+  {
+    "name": "Support Ordinateur Portable",
+    "description": "Support réglable en aluminium pour améliorer l'ergonomie et le refroidissement.",
+    "price": 27.99,
+    "category": "Informatique"
+  },
+  {
+    "name": "Carnet de Notes A5",
+    "description": "Carnet de 192 pages à couverture rigide en similicuir avec papier de 100 g/m².",
+    "price": 12.50,
+    "category": "Papeterie"
+  },
+  {
+    "name": "Bouteille d'Huilier en Verre",
+    "description": "Distributeur d'huile d'olive de 500ml anti-goutte avec bec verseur en inox.",
+    "price": 16.90,
+    "category": "Maison & Cuisine"
+  },
+  {
+    "name": "Batterie Externe 20000mAh",
+    "description": "Powerbank haute capacité avec charge rapide Power Delivery 20W pour smartphones et tablettes.",
+    "price": 38.00,
+    "category": "Électronique"
+  }
+]
