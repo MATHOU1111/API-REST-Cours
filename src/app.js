@@ -1,10 +1,12 @@
 const express = require('express');
+const authRouter = require('./routes/auth');
 const productsRouter = require('./routes/products');
 
 const app = express();
 
 app.use(express.json());
 
+app.use('/api/auth', authRouter);
 app.use('/api/products', productsRouter);
 
 app.use((request, response) => {
